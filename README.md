@@ -38,9 +38,7 @@
 
 ## 🧠 Example: Quick Data Analysis
 
-<video src="screenshots/explore.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](screenshots/explore-thumb.png)](https://dataprocessingtool.olllo.top/video/data.olllo-open-and-anylisis-large-data-files.mp4)
 
 ---
 
