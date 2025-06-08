@@ -38,7 +38,9 @@
 
 ## 🧠 Example: Quick Data Analysis
 
-![Quick Explore Data](screenshots/explore.mp4)
+<video src="screenshots/explore.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
